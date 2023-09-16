@@ -11,3 +11,7 @@ Image of the GorillaLoader.
 
 Image of the first version of the GUI of the GorillaInternal.
 
+Image of the latest version of the GUI of the Gorillainternal.
+![image](https://github.com/FUFUGUA/GorillaLoader/assets/97225465/6be82c32-1fed-4c4a-802e-55ec46d4c131)
+
+
