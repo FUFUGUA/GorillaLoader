@@ -1,5 +1,5 @@
-# GorillaLoader
-An internal cheat loader for TF2
+# GorillaLoader and GorillaInternal
+An internal cheat and cheat loader for TF2
 
 GorillaInternal released! The menu and functions are working great.
 
