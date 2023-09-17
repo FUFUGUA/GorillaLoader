@@ -3,6 +3,8 @@ An internal cheat and cheat loader for TF2
 
 GorillaInternal released! The menu and functions are working great.
 
+Sorry Windows 10 users, the GorillaInternal doesn't seem to be working NOW on Windows 10 for some reason/s, I'll take a look into that after I've implemented menu snow and animated border functions greatly to the menu.
+
 --How to use
 Just inject the DLL to Team Fortress 2 using the GorillaLoader.exe, note that you need to have the discord-rpc-w32.dll in the same folder in order to use the GorillaLoader.exe, else it will crash. And you'll also need to have the GorillaInternal.dll in the same folder as the other files(GorillaLoader.exe, discord-rpc-w32.dll) if you want to inject using GorillaLoader.exe(which is the easiest way to inject the dll, it's literally just 1 press of left mouse button.
 
