@@ -1,6 +1,8 @@
 # GorillaLoader and GorillaInternal
 An internal cheat and cheat loader for TF2
 
+LegitBot coming soon, implementing it to the same DLL and letting the user choose from if they want to use the legitBot, or the original one.
+
 GorillaInternal released! The menu and functions are working great.
 
 The use of a Directx level 9.0 or higher is required, so just type in -dxlevel 90 to the Team Fortress 2 launch options in Steam,
