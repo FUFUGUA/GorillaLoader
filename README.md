@@ -26,6 +26,9 @@ Image of the GorillaLoader.
 
 Image of the first version of the GUI of the GorillaInternal.
 
+![image](https://github.com/FUFUGUA/GorillaLoader/assets/97225465/4fb41e49-782d-47c7-b99b-e27c835618af)
+Image of the current GorillaInternal BETA DLL's GUI
+
 
 
 
