@@ -1,7 +1,7 @@
 # GorillaLoader and GorillaInternal
 An internal cheat and cheat loader for TF2
 
-LegitBot coming soon, implementing it to the same DLL and letting the user choose from if they want to use the legitBot, or the original one.
+LegitBot coming soon, implementing it to the same DLL and letting the user choose from if they want to use the legitBot, or the original one. Sorry for the wait on legitBot, I'm currently focusing more on making a better "maintainer" for the GorillaInternal, the maintainer will be somewhat like a loader with functions like: disabling VAC-module, injecting GorillaInternal.dll, making configs for GorillaInternal. Other functions coming in later releases if needed.
 
 GorillaInternal released! The menu and functions are working great.
 
