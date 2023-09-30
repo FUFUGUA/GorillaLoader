@@ -22,10 +22,11 @@ Image of the latest version of the GUI of the Gorillainternal.
 
 
 
-![image](https://github.com/FUFUGUA/GorillaLoader/assets/97225465/4ead5ad1-236b-4692-bbf9-23592763316a)
+![image](https://github.com/FUFUGUA/GorillaLoader/assets/97225465/5cb060ea-8d5f-43ef-a0ac-eddc32bd3790)
 
 
-Image of the GorillaLoader.
+
+Image of the GorillaMaintainer.
 
 ![image](https://github.com/FUFUGUA/GorillaLoader/assets/97225465/d60ede75-e914-4168-8a29-94fb1f71b02d)
 
