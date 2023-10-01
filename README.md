@@ -8,7 +8,7 @@ GorillaMaintainer released! It's an awesome maintainer, VAC-module bypass releas
 
 GorillaInternal released! The menu and functions are working great.
 
-The use of a Directx level 9.0 or higher is required, so just type in -dxlevel 90 to the Team Fortress 2 launch options in Steam,
+The use of a Directx level 9.0 or higher is required since the menu is rendered on Directx9, so just type in -dxlevel 90 to the Team Fortress 2 launch options in Steam,
 or higher, for an example if you'd want to use directx 9.8, type in -dxlevel 98.
 
 --How to use
