@@ -10,8 +10,7 @@ The use of a Directx level 9.0 or higher is required since the menu is rendered 
 or higher, for an example if you'd want to use directx 9.8, type in -dxlevel 98.
 
 --How to use
-Just inject the DLL to Team Fortress 2 using the GorillaLoader.exe, note that you need to have the discord-rpc-w32.dll in the same folder in order to use the GorillaLoader.exe, else it will crash. And you'll also need to have the GorillaInternal.dll in the same folder as the other files(GorillaLoader.exe, discord-rpc-w32.dll) if you want to inject using GorillaLoader.exe(which is the easiest way to inject the dll, it's literally just 1 press of left mouse button.
-
+Just inject the DLL to Team Fortress 2 using the GorillaMaintainer.exe.
 --How to open the menu
 You can open(and close)the menu by pressing ins or F3 in-game.
 
