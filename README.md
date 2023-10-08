@@ -27,7 +27,8 @@ Image of the latest version of the GUI of the Gorillainternal.
 
 Image of the GorillaMaintainer.
 
-![image](https://github.com/FUFUGUA/GorillaLoader/assets/97225465/910570e6-c040-4a79-9ff4-fc248b6370ff)
+![image](https://github.com/FUFUGUA/GorillaLoader/assets/97225465/ee8ddd10-a1e1-47be-8ccd-48c90b8a303c)
+
 
 
 
