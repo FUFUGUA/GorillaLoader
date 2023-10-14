@@ -31,8 +31,7 @@ Image of the GorillaMaintainer.
 
 
 
-Image of the GUI of the GorillaLegitBot(not released yet, will start making it soon).
-
+Image of the GUI of the GorillaLegitBot
 
 ![image](https://github.com/FUFUGUA/GorillaLoader/assets/97225465/d60ede75-e914-4168-8a29-94fb1f71b02d)
 
