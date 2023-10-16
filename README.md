@@ -20,7 +20,8 @@ Image of the latest version of the GUI of the Gorillainternal.
 
 
 
-![image](https://github.com/FUFUGUA/GorillaLoader/assets/97225465/5cb060ea-8d5f-43ef-a0ac-eddc32bd3790)
+![image](https://github.com/FUFUGUA/GorillaLoader/assets/97225465/1cd02950-e5dc-424d-9082-f067a5a6f174)
+
 
 
 
