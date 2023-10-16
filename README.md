@@ -15,7 +15,8 @@ Just inject the DLL to Team Fortress 2 using the GorillaMaintainer.exe.
 You can open(and close)the menu by pressing ins or F3 in-game.
 
 Image of the latest version of the GUI of the Gorillainternal.
-![image](https://github.com/FUFUGUA/GorillaLoader/assets/97225465/232a9c9e-9e3a-4913-b6ee-c4a0f7c3d6be)
+![image](https://github.com/FUFUGUA/GorillaLoader/assets/97225465/7f81ef5d-e0f9-41fa-8e2f-f0dcae82ea3e)
+
 
 
 
