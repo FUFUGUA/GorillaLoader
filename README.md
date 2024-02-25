@@ -4,6 +4,8 @@ An internal cheat and cheat loader for TF2
 
 GorillaMaintainer released! It's an awesome maintainer, VAC-module bypass released!
 
+!! GORILLAINTERNAL DOESN'T WORK ANYMORE IN THE CURRENT RELEASE OF TEAM FORTRESS 2 AND I'M NOT WILLING TO UPDATE IT, BUT I THINK GORILLA MAINTAINER CAN STILL BE USED IN ORDER TO BYPASS THE VAC-MODULE OR JUST FOR INJECTING DLL'S(DYNAMIC LINK LIBRARIES) TO GAMES(IT HAS MANUAL MAP AND NATIVE INJECTION METHODS AVAILABLE. !!
+
 GorillaInternal released! The menu and functions are working great.
 
 The use of a Directx level 9.0 or higher is required since the menu is rendered on Directx9, so just type in -dxlevel 90 to the Team Fortress 2 launch options in Steam,
