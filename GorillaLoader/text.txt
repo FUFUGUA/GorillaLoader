@@ -1,0 +1,1 @@
+The program should be only downloaded from 'https://github.com/FUFUGUA/GorillaLoader', installations from somewhere else could have viruses/unwanted programs.
