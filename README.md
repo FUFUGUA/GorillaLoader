@@ -1,6 +1,6 @@
 # GorillaLoader
 
-GorillaLoader UPDATED 23.4.2024 GorillaLoaderx64 released 4.12.2024
+Loaders updated 14.9.2025, feel free to try them out and perhaps even use them. 
 
 You can use the GorillaLoader64.exe to inject and unload the specified dll to the TF2 64-bit process. 
 
